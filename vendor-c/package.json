@@ -1,0 +1,14 @@
+{
+  "name": "vendor-c-api",
+  "version": "1.0.0",
+  "description": "API produk Vendor C untuk Interoperability",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
