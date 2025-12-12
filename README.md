@@ -16,11 +16,11 @@ Anggota 4 Ajeng Maulida Puspita sebagai Lead Introgrator
 ---
 
 ## Struktur Repository
-main/ → Dokumentasi umum
-vendor-a/ → API Vendor A
-vendor-b/ → API Vendor B
-vendor-c/ → API Vendor C
-leadintegrator-ajeng/ → API Integrator (menggabungkan semua vendor)
+- main/ → Dokumentasi umum
+- vendor-a/ → API Vendor A
+- vendor-b/ → API Vendor B
+- vendor-c/ → API Vendor C
+- leadintegrator-ajeng/ → API Integrator (menggabungkan semua vendor)
 
 ---
 
