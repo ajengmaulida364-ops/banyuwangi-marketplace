@@ -1,0 +1,30 @@
+{
+  "info": {
+    "_postman_id": "a1b2c3d4-vendor-a-collection",
+    "name": "Vendor A",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "vendor-a",
+    "_collection_link": "https://kifiyah-faiqotul-s-team.postman.co/workspace/Team-Workspace~cc8d7dc3-8eaa-4a23-8a83-51cb56696dca/collection/47946972-e2380fb4-8448-4d25-9235-6da412a52470?action=share&creator=47946972"
+  },
+  "item": [
+    {
+      "name": "vendor a products",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:4001/products",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "4001",
+          "path": [
+            "products"
+          ]
+        }
+      },
+      "response": []
+    }
+  ]
+}
