@@ -29,6 +29,4 @@ Anggota 4 Ajeng Maulida Puspita sebagai Lead Introgrator
 - Mensimulasikan interoperabilitas antar sistem  
 - Setiap vendor memiliki struktur data berbeda  
 - Lead Integrator menggabungkan seluruh data menjadi satu format standar  
-- Semua anggota bekerja di branch masing-masing  
-- Tidak ada merge ke branch main sesuai instruksi dosen  
-
+- Semua anggota bekerja di branch masing-masing 
