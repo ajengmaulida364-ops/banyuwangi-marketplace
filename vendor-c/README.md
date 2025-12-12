@@ -9,7 +9,7 @@ Repository ini berisi layanan API kecil (microservice) yang menyediakan data pro
 
 ---
 
-## File dalam Vendor (Nama Vendor)
+## File dalam Vendor C
 - **vendorC.json** — data mentah produk Vendor C
 - **server.js** — server API untuk menyediakan data ke integrator
 - **package.json** — konfigurasi server (Node & Express)
@@ -18,15 +18,21 @@ Repository ini berisi layanan API kecil (microservice) yang menyediakan data pro
 
 ---
 
-## Struktur Data Vendor (Nama Vendor)
+## Struktur Data Vendor C
 
 Format data untuk setiap produk:
 
 ```json
-{
-  "field1": "string / number / boolean",
-  "field2": "string",
-  "field3": {
-     "nestedField": "value"
-  }
+  {
+  "id": number,
+  "details": {
+    "name": "string",
+    "category": "string"
+  },
+  "pricing": {
+    "base_price": number,
+    "tax": number
+  },
+  "stock": number
 }
+
