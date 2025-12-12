@@ -8,10 +8,10 @@ Branch **main** hanya berisi dokumentasi umum dan tidak digunakan untuk menulis 
 ---
 
 ## Pembagian Tugas & Branch
-Anggota 1 Siti Faiqotul Kifiyah sebagai pengembang vendor A
-Anggota 2 Nisa Eka Kholifaturrizkiah sebagai pengembang vendor B
-Anggota 3 Lilis Thalisa sebagai pengembang vendor C
-Anggota 4 Ajeng Maulida Puspita sebagai Lead Introgrator
+Anggota 1 Siti Faiqotul Kifiyah (362458302021) sebagai pengembang vendor A
+Anggota 2 Nisa Eka Kholifaturrizkiah (362458302018) sebagai pengembang vendor B
+Anggota 3 Lilis Thalisa (362458302020)  sebagai pengembang vendor C
+Anggota 4 Ajeng Maulida Puspita (362458302012) sebagai Lead Introgrator
 
 ---
 
