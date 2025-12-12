@@ -1,0 +1,20 @@
+[
+  {
+    "sku": "TSHIRT-001",
+    "productName": "Kaos Ijen Crater",
+    "price": 75000,
+    "isAvailable": true
+  },
+  {
+    "sku": "TSHIRT-002",
+    "productName": "Kaos Merah Putih Banyuwangi",
+    "price": 85000,
+    "isAvailable": true
+  },
+  {
+    "sku": "TSHIRT-003",
+    "productName": "Hoodie Banyuwangi Adventure",
+    "price": 150000,
+    "isAvailable": true
+  }
+]
