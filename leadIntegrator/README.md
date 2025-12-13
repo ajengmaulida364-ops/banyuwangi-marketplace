@@ -38,7 +38,7 @@ Di dalam integrator.js, setiap vendor diproses untuk:
 - Menggabungkan field yang tersebar (misal base_price + tax menjadi harga_final)
 - Menentukan status berdasarkan stock atau boolean vendor masing-masing
 
-## Struktur Data Vendor B
+## Struktur Data Lead Integrator
 Semua produk dari 3 vendor ini akan distandarisasi menjadi format:
 
 ```json
