@@ -1,6 +1,6 @@
 const express = require("express");
 const cors = require("cors");
-const data = require("./dataB.json");
+const data = require("./vendorB.json");
 
 const app = express();
 app.use(cors());
