@@ -3,6 +3,8 @@
 Repository ini merupakan proyek UAS Interoperability yang terdiri dari beberapa layanan vendor dan satu layanan integrator.  
 Setiap anggota membuat API vendor masing-masing, sementara Lead Integrator menggabungkan seluruh data vendor menjadi satu API terpadu.
 
+Kami tidak melakukan merge ke branch main, karena setiap anggota mengerjakan microservice yang berbeda. Branch main digunakan sebagai dokumentasi utama agar kontribusi tiap anggota tetap terpisah dan jelas. 
+
 Branch **main** hanya berisi dokumentasi umum dan tidak digunakan untuk menulis kode vendor maupun integrator.
 
 ---
